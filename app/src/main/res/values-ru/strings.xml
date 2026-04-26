@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Поиск рейсов</string>
+    <string name="search_title">Поиск рейсов</string>
+    <string name="search_subtitle">Введите код IATA или название аэропорта и выберите подходящий вариант.</string>
+    <string name="search_hint">Например, SVO или Sheremetyevo</string>
+    <string name="search_button">Найти рейсы</string>
+    <string name="favorite_flights_title">Избранные рейсы</string>
+    <string name="search_results_title">Рейсы из %1$s</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="airport_not_found">Аэропорт не найден. Выберите вариант из подсказок.</string>
+    <string name="search_empty_message">Для %1$s рейсы не найдены.</string>
+    <string name="favorites_empty_message">Избранных рейсов пока нет.</string>
+    <string name="database_error">Не удалось выполнить операцию с базой данных.</string>
+    <string name="departure_short">Вылет из %1$s</string>
+    <string name="departure_full">Вылет: %1$s - %2$s</string>
+    <string name="route_format">Маршрут: %1$s - %2$s</string>
+</resources>
